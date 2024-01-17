@@ -11,8 +11,10 @@ const Header = () => {
             <a href="Order Review">Order</a>
             <a href="Manage Inventory">Manage Inventory</a>
             <a href="Login">Login</a>
+          
            </div>
         </div>
+        
     );
 };
 
